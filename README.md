@@ -1,5 +1,3 @@
-Visit this github link: https://github.com/khabaodo/online-retail-dashboard
-
 # Objective
 Develop a practical and efficient Tableau dashboard that enables the store owner to swiftly oversee store operations and project sales revenue for the upcoming two months. This dashboard will serve as a valuable tool for examining product sales trends, which is essential for planning and ensuring adequate inventory levels for future demand.
 
