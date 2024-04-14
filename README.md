@@ -1,5 +1,5 @@
 # Objective
-Develop a practical and efficient dashboard that enables the store owner to swiftly oversee store operations and project sales revenue for the upcoming two months. This dashboard will serve as a valuable tool for examining product sales trends, which is essential for planning and ensuring adequate inventory levels for future demand.
+Develop a practical and efficient Tableau dashboard that enables the store owner to swiftly oversee store operations and project sales revenue for the upcoming two months. This dashboard will serve as a valuable tool for examining product sales trends, which is essential for planning and ensuring adequate inventory levels for future demand.
 
 # How to use
 * **Tableau Dashboard**: For the purpose of running the Tableau dashboard, *Tableau* folder -> *dashboard.twbx*. Instructions on how to interact with dashboard is written in the dashboard. To make it look clean, I hid all the sheets. To learn more about seperate sheest to construct the dashboard, right click the *dashboard* and click *Unhide All Sheets*.
